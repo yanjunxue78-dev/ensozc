@@ -1,0 +1,5 @@
+{
+  "name": "Zebiak-Cane ENSO Simulator",
+  "description": "A high-performance interactive Zebiak-Cane model for simulating El Niño-Southern Oscillation (ENSO) dynamics, featuring Gill-type atmosphere, reduced-gravity ocean, and non-linear SST coupling.",
+  "requestFramePermissions": []
+}
